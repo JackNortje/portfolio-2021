@@ -279,6 +279,7 @@ a.nav-btn {
     height: 100%;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
+    overflow-x: hidden;
   }
   .animate__fadeIn {
     opacity: 0;
