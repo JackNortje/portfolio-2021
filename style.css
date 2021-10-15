@@ -486,6 +486,7 @@ a.nav-btn {
   }
   .work-timeline ul li {
     color: #030e12;
+    line-height: 40px;
   }
   .work-timeline .tab {
     overflow: hidden;
